@@ -1,0 +1,10 @@
+.header__langs {
+
+}
+
+@media screen and (min-width: 320px) {
+  .header__langs {
+    display: flex;
+    align-items: center;
+  }
+}

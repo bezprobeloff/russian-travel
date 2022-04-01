@@ -1,5 +1,7 @@
 .lead__caption {
+  margin: 0;
+  align-self: flex-start;
   font-weight: 400;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
 }

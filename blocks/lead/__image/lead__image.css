@@ -2,3 +2,9 @@
   width: 100vw;
   object-fit: cover;
 }
+
+@media screen and (min-width: 1024px) {
+  .lead__image {
+    width: 100%;
+  }
+}

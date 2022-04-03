@@ -3,3 +3,9 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (min-width: 1280px) {
+  .content {
+    width: 1280px;
+  }
+}

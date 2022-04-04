@@ -5,3 +5,15 @@
   align-items: center;
   box-sizing: border-box;
 }
+
+@media screen and (min-width: 1024px) {
+  .lead {
+    width: 928px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead {
+    width: 984px;
+  }
+}

@@ -21,12 +21,13 @@
 
 @media screen and (min-width: 1024px) {
   .header {
-    padding: 28px 48px 0;
+    width: 928px;
+    padding: 28px 0 0;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .header {
-    width: 1280px;
+    width: 1184px;
   }
 }

@@ -20,12 +20,13 @@
 
 @media screen and (min-width: 1024px) {
   .intro {
-    padding: 92px 48px 0;
+    width: 928px;
+    padding: 92px 0 0;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .intro {
-    padding: 92px 148px 0;
+    width: 984px;
   }
 }

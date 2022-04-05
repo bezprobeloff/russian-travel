@@ -6,9 +6,6 @@
   align-items: center;
   text-decoration: none;
   color: #FFFFFF;
-  background-image: url(../../../images/cover-train-mobile.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 320px) {

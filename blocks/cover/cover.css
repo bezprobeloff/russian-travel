@@ -3,7 +3,34 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../../../images/cover-train-mobile.jpg);
+  background-image: url(../../images/cover-train-mobile.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media screen and (min-width: 320px) {
+  .cover {
+    margin-top: 66px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .cover {
+    margin-top: 90px;
+    background-image: url(../../images/cover-train-desktop-pad.jpg);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    margin-top: 92px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    max-width: 1184px;
+  }
 }

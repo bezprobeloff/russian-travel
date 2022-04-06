@@ -7,6 +7,10 @@
   text-decoration: none;
 }
 
+.header__lang-link:hover {
+  opacity: .8;
+}
+
 .header__lang-link:last-child {
   margin-right: 0;
 }

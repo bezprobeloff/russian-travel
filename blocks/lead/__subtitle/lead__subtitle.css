@@ -15,17 +15,10 @@
 
 @media screen and (min-width: 768px) {
   .lead__subtitle {
-    max-width: 288px;
-    padding: 0 24px 56px;
-    font-size: 30px;
-    line-height: 1.2;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  .lead__subtitle {
     max-width: 640px;
     padding: 0 0 56px;
+    font-size: 30px;
+    line-height: 1.2;
   }
 }
 

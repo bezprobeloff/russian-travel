@@ -24,7 +24,6 @@
     width: 928px;
     padding: 92px 0 92px;
     grid-template-columns: repeat(3, 1fr);
-    gap: 16px;
   }
 }
 
@@ -32,6 +31,5 @@
   .photo-grid {
     width: 984px;
     grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
   }
 }

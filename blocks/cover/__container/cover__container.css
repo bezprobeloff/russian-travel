@@ -1,0 +1,16 @@
+.cover__container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../../images/cover-train-mobile.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media screen and (min-width: 768px) {
+  .cover__container {
+    background-image: url(../../../images/cover-train-desktop-pad.jpg);
+  }
+}

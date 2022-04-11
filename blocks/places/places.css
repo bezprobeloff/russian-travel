@@ -1,5 +1,5 @@
 .places {
-  width: 100vw;
+  width: 100%;
   display: grid;
   box-sizing: border-box;
   row-gap: 50px;

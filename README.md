@@ -1,25 +1,23 @@
-# Проект: Путешествие по России
+<h1 align="center">Путешествие по России</h1>
+<p align="center">
+    <img alt="Quality" src="https://img.shields.io/badge/status-release-orange.svg" >
+    <img alt="Made by: Bezprobeloff" src="https://img.shields.io/badge/made%20by-Bezprobeloff-blue" />
+</p>
 
-### Обзор
-* Интро
-* Технологии
-* Где посмотреть
+Ссылка на deploy проекта в gh-pages: **[Путешествие по России](https://bezprobeloff.github.io/russian-travel/index.html)**
 
-**Интро**
+
+![Watch the video](./readme/preview.gif)
+
+**Обзор**
 
 Проект сайта о путешествии по России, который можно посмотреть в режиме мобильного, планшета и десктопа.
 На каждом устройстве адаптивно меняется для удобства и читабельности.
 
 **Технологии**
 
-Использовал следующие технологии:
-
 * Flexbox
 * Grid
 * Методология БЭМ
 * Семантическая вёрстка
 * Адаптивность с использованием "резиновости"
-
-**Где посмотреть**
-
-А вот здесь &rarr; [Путешествие по России](https://bezprobeloff.github.io/russian-travel/index.html).
